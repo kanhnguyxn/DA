@@ -1,0 +1,702 @@
+[
+   {
+      "collection":"pudgypenguins",
+      "name":"Pudgy Penguins",
+      "owner":"0xf54c9a0e44a5f5afd27c7ac8a176a843b9114f1d",
+      "contracts_address":"0xbd3531da5cf5857e7cfaa92426877b022e612cf8",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"boredapeyachtclub",
+      "name":"Bored Ape Yacht Club",
+      "owner":"0x0000000000000000000000000000000000000000",
+      "contracts_address":"0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"lilpudgys",
+      "name":"Lil Pudgys",
+      "owner":"0xf54c9a0e44a5f5afd27c7ac8a176a843b9114f1d",
+      "contracts_address":"0x524cab2ec69124574082676e6f654a18df49a048",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"milady",
+      "name":"Milady Maker",
+      "owner":"0x43e2e78c8e6f2ce57fbd970c811e70e0044389aa",
+      "contracts_address":"0x5af0d9827e0c53e4799bb226655a1de152a425a5",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"cryptopunks",
+      "name":"CryptoPunks",
+      "owner":"0xc352b534e8b987e036a93539fd6897f53488e56a",
+      "contracts_address":"0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"memelandcaptainz",
+      "name":"Memeland Captainz",
+      "owner":"0x1c593c369136264abfb908b4b20e74c9a5949417",
+      "contracts_address":"0x769272677fab02575e84945f03eca517acc544cc",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"mutant-ape-yacht-club",
+      "name":"Mutant Ape Yacht Club",
+      "owner":"0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+      "contracts_address":"0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"azuki",
+      "name":"Azuki",
+      "owner":"0x2ae6b0630ebb4d155c6e04fcb16840ffa77760aa",
+      "contracts_address":"0xed5af388653567af2f388e6224dc7c4b3241c544",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"remilio-babies",
+      "name":"Redacted Remilio Babies",
+      "owner":"0x43e2e78c8e6f2ce57fbd970c811e70e0044389aa",
+      "contracts_address":"0xd3d9ddd0cf0a5f0bfb8f7fceae075df687eaebab",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"the-origin-pass-official",
+      "name":"The Origin Pass",
+      "owner":"0x6244e2f2a60838d2ebc0ad34f6cb26bfd1b27651",
+      "contracts_address":"0x28a55418bb58733e0ed86aae05c080e4a7a32c4e",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"mocaverse",
+      "name":"Mocaverse",
+      "owner":"0xda4966870a9b4ce849c2011a007a896b7f212b70",
+      "contracts_address":"0x59325733eb952a92e069c87f0a6168b29e80627f",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"memelandpotatoz",
+      "name":"Memeland Potatoz",
+      "owner":"0x1c593c369136264abfb908b4b20e74c9a5949417",
+      "contracts_address":"0x39ee2c7b3cb80254225884ca001f57118c8f21b6",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"piratenation",
+      "name":"Pirate Nation - Founder's Pirates",
+      "owner":"0x69eabd271ce10c2102498d7a0b00b6e113dcdfe8",
+      "contracts_address":"0x1b41d54b3f8de13d58102c50d7431fd6aa1a2c48",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"matr1x-kuku",
+      "name":"MATR1X KUKU",
+      "owner":"0x6ff4dab3dbe9e7eb5264fcb11f3194ed9bf40f7e",
+      "contracts_address":"0x596a5cd859ad53fec23cd3fcd77522f0b407920d",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"ul-punks2023",
+      "name":"Punks2023",
+      "owner":"0x20e3592fe916785de0e7d17bed9fe9d950f75de8",
+      "contracts_address":"0x789e35a999c443fe6089544056f728239b8ffee7",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"nftninjas",
+      "name":"NFTNinjas (NN)",
+      "owner":"0xdc3f9c9f3b600adf4582b4d0ef4234b93bd7e6ac",
+      "contracts_address":"0xb63ce3ac885a3318fc2e563fdb190e9a5dda5b33",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"kemonokaki",
+      "name":"Kemonokaki",
+      "owner":"0x3db78767fc98de7ef7fa5ea18c5acaf17fcfc51c",
+      "contracts_address":"0xee7d1b184be8185adc7052635329152a4d0cdefa",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"gemesis",
+      "name":"Gemesis",
+      "owner":"0xed2c3c2775bd0d57432838fe3e761bbb4628a36d",
+      "contracts_address":"0xbe9371326f91345777b04394448c23e2bfeaa826",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"yaypegs",
+      "name":"Yaypegs",
+      "owner":"0x9c82303ce0bda427d3ae13d7ffff59e2a49a82ad",
+      "contracts_address":"0x7fda36c8daedcc55b73e964c2831d6161ef60a75",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"merge-regenesis",
+      "name":"The Merge: Regenesis",
+      "owner":"0x002e2602fd10e1abac5955d25d20f25d9842d9a9",
+      "contracts_address":"0xe42cad6fc883877a76a26a16ed92444ab177e306",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"tooniesclub",
+      "name":"Toonies SC",
+      "owner":"0x022b05f735871a1dd22576b37e4ce93ce498ca59",
+      "contracts_address":"0xb89c7292e42cf94afa6933c45979d0a5328a4ea2",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"fantasy-world-game",
+      "name":"Fantasy World Game",
+      "owner":"0x03975130b5f1dd38798e6a60708e53a065f783c2",
+      "contracts_address":"0x6b648193d7f60e92fed20b2f0ce821897361951a",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"outlawsdotwtf",
+      "name":"Outlaws",
+      "owner":"0x096f3a8d8aca9ea0e913f4528fac6693b948360f",
+      "contracts_address":"0xf48b45479ba7e121a3542626d5a5f3b07ec5b65d",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"kanpai-pandas",
+      "name":"Kanpai Pandas",
+      "owner":"0xd77ec5ba85742194487ac7218d2775b8b2da40ae",
+      "contracts_address":"0xacf63e56fd08970b43401492a02f6f38b6635c91",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"proof-moonbirds",
+      "name":"Moonbirds",
+      "owner":"0x6c8984baf566db08675310b122bf0be9ea269eca",
+      "contracts_address":"0x23581767a106ae21c074b2276d25e5c3e136a68b",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"subject-three-style",
+      "name":"Subject Three Style",
+      "owner":"0x83d9d18f3847c3cbab8988642e57d0488ae03dea",
+      "contracts_address":"0x0ae1f194f537bf5471281160a67c407cea1729f8",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"yogapetz",
+      "name":"Yogapetz",
+      "owner":"0x6c8ee01f1f8b62e987b3d18f6f28b22a0ada755f",
+      "contracts_address":"0x142e03367ede17cd851477a4287d1f35676e6dc2",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"pxlfangs",
+      "name":"PxlFangs",
+      "owner":"0x5e697c6f5cbebd6ca17bde80d684c226a1e223be",
+      "contracts_address":"0x30917a657ae7d1132bdca40187d781fa3b60002f",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"orgnls-by-sabet",
+      "name":"ORGNLS by SABET",
+      "owner":"0x02eb75be1e72e988de64f0088d654d8ea1081e87",
+      "contracts_address":"0x4f004c81519519cf33b2850c74465fa4db19ead1",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"killatraits",
+      "name":"KILLATRAITS",
+      "owner":"0x48cf2a4b8a74974beabf8db1f45f9123edc79c06",
+      "contracts_address":"0x0e9e3eff16d2d19f5d7a04717d70b81f2c7465a5",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"traitz",
+      "name":"Traitz",
+      "owner":"0x6c8ee01f1f8b62e987b3d18f6f28b22a0ada755f",
+      "contracts_address":"0xdc7411d597111c83d7bcbc7c7523e9b2cd22c9eb",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"kurenai-hoozuki-",
+      "name":"KURENAI -HOOZUKI-",
+      "owner":"0x646a431394efda5bb0601882a978695be402b295",
+      "contracts_address":"0x75afa588cc4e97736bf51e3bb542252fbd6b879f",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"lion-club",
+      "name":"SportsIcon Lion Club",
+      "owner":"0x5f2b564a2ad0f01a3cd80713f1ec6290272e550a",
+      "contracts_address":"0x59ec8e68d9caa87f6b5bc4013172c20e85ccdad0",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"darkflex",
+      "name":"Darkflex",
+      "owner":"0x04b652c319ce04643524d63f77401492db770613",
+      "contracts_address":"0x765da497beaf1c7d83476c0e77b6caba672defb9",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"art-block-girl",
+      "name":"Art-Block Girl",
+      "owner":"0x13cf5edb0d594ba24daa27f111061d656e17d87a",
+      "contracts_address":"0xea1019ba8a4489e99ad679ccb8a2c4cfc7a45691",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"pownft",
+      "name":"POW NFT",
+      "owner":"0xafa33991b1a03b0f79351439457059150cd6ddc0",
+      "contracts_address":"0x9abb7bddc43fa67c76a62d8c016513827f59be1b",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"pixelmongen1",
+      "name":"Pixelmon - Generation 1",
+      "owner":"0x7077e6eb69711cb89d53a51a1db1436e9522db02",
+      "contracts_address":"0x32973908faee0bf825a343000fe412ebe56f802a",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"evil-force-comics",
+      "name":"Evil Force Comics",
+      "owner":"0x7772de7db7608ed670842e8125e62b37b153b287",
+      "contracts_address":"0xd0b68f4a36def87f7c94f25eca177fa3cf7ce869",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"asm-gen-ii-brains",
+      "name":"ASM Gen II Brains",
+      "owner":"0x5f3f357194c32f9c2f1176cc39b9d6c214a1fdca",
+      "contracts_address":"0x86599b800e23036d761f43d7516092447295659f",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"azukielementals",
+      "name":"Azuki Elementals",
+      "owner":"0x2ae6b0630ebb4d155c6e04fcb16840ffa77760aa",
+      "contracts_address":"0xb6a37b5d14d502c3ab0ae6f3a0e058bc9517786e",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"doodles-official",
+      "name":"Doodles",
+      "owner":"0x9d863ed039d61b9313fdc06a9e5ab4b6c2f63ba8",
+      "contracts_address":"0x8a90cab2b38dba80c64b7734e58ee1db38b8992e",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"evil-ghost-max",
+      "name":"Evil Ghost Max",
+      "owner":"0x3070e758d99cdd6ebcd8a0d381f68e52f93cdd88",
+      "contracts_address":"0xba5ad1eaac61298bcdb760b3f056c18d8576f974",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"fidenza-by-tyler-hobbs",
+      "name":"Fidenza by Tyler Hobbs",
+      "owner":"0xcf00ec2b327bcfa2bee2d8a5aee0a7671d08a283",
+      "contracts_address":"",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"persona",
+      "name":"Persona",
+      "owner":"0xcc1ac5953d11f9acf64d885a3bb4da82e76ec1e0",
+      "contracts_address":"0xbabafdd8045740449a42b788a26e9b3a32f88ac1",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"clonex",
+      "name":"CLONE X - X TAKASHI MURAKAMI",
+      "owner":"0x12ea19217c65f36385bb030d00525c1034e2f0af",
+      "contracts_address":"0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"lnk-girl",
+      "name":"Lnk Girl",
+      "owner":"0xf7bc2bc6fbf1beb3ba699c1d2d264f33dbb09c35",
+      "contracts_address":"0xc88296cbdba85deeba085d9d72d5b9cf1e88215e",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"crazy-capybara",
+      "name":"Crazy Capybara",
+      "owner":"0x6b0c00a755414fa62b7f0d75cda849d5447cbaae",
+      "contracts_address":"0xe4f3d25c152e028c200b866099d24794141aeb9c",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"color-universe-1",
+      "name":"Color Universe",
+      "owner":"0x54b6b2a2c36a393ade733a07debf1241ba6beb9d",
+      "contracts_address":"0x5832d228cd36a53c3c3f7a7af5be9228ce041b44",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"degods-eth",
+      "name":"DeGods",
+      "owner":"0x28b23effa8c23e8e402e3f8516f544e6567c41f5",
+      "contracts_address":"0x8821bee2ba0df28761afff119d66390d594cd280",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"ice-man-6",
+      "name":"Ice Man",
+      "owner":"0x3b5ca0b5cc232d2aabafb34c3364d143314b8632",
+      "contracts_address":"0x9e832e17deb0abbd2a407c78b041bca621cf21e8",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"ice-man-6",
+      "name":"Ice Man",
+      "owner":"0x3b5ca0b5cc232d2aabafb34c3364d143314b8632",
+      "contracts_address":"0x9e832e17deb0abbd2a407c78b041bca621cf21e8",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"chibi-galaxy",
+      "name":"Chibi Galaxy",
+      "owner":"0x8a04f9c3d4de6a118670fa9c5dd078f1ecf4e61b",
+      "contracts_address":"0x5aeb2a703323f69b20f397bcb7b38610ec37237b",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"overworld-incarna",
+      "name":"OVERWORLD INCARNA",
+      "owner":"0x453cfe7da2e36215b5944ec71af083185633273b",
+      "contracts_address":"0xfdf5acd92840e796955736b1bb9cc832740744ba",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"gunfight-action-creation-gun",
+      "name":"Gunfight Action-Creation Gun",
+      "owner":"0x5467ead32dc7e2bfbe77fb6d39b5c4b14f8d6978",
+      "contracts_address":"0x26fdced976546a1525ff3c23d18b534cce53a432",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"nakamigos",
+      "name":"Nakamigos",
+      "owner":"0xbaa4b7858c3277da9cb9cdadf405f2017afea19a",
+      "contracts_address":"0xd774557b647330c91bf44cfeab205095f7e6c367",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"pixels-farm",
+      "name":"Pixels - Farm Land",
+      "owner":"0xcc9eb93414bce81a088e7c5e34464ccea944199f",
+      "contracts_address":"0x5c1a0cc6dadf4d0fb31425461df35ba80fcbc110",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"dope-shibas",
+      "name":"Dope Shibas",
+      "owner":"0x13f58543fd794c88221cc75f23e72541027aa3bd",
+      "contracts_address":"0x763864f1a74d748015f45f7c1181b60e62e40804",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"roars-by-ntp",
+      "name":"ROARS",
+      "owner":"0x1f8b98db321ab2816b517bbeef905bb06473112c",
+      "contracts_address":"0x066b62ea211249925800ed8676f69ed506175714",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"dimensionx",
+      "name":"Dimension X",
+      "owner":"0xde641233d801dad0702767ca2c909890d7f1ffed",
+      "contracts_address":"0x8918ba30e2e76b503e83d55eb08936b0f979eec4",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"magicbook-1",
+      "name":"Magicbook",
+      "owner":"0x03d1c13b5c944950c3f21b76086beaa3079cd99a",
+      "contracts_address":"0x3068115ea519661d38ddeb4043d67efd3046e9c6",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"therandomsnfts",
+      "name":"The Randoms NFTs",
+      "owner":"0xdf0c706656e6532875f04f55a69ab8b9ba8f2827",
+      "contracts_address":"0x79aa05963c92a2a10d96bd840eb5e73a1e675e92",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"chromie-squiggle-by-snowfro",
+      "name":"Chromie Squiggle by Snowfro",
+      "owner":"0xcf00ec2b327bcfa2bee2d8a5aee0a7671d08a283",
+      "contracts_address":"",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"cyborgpunk-frog",
+      "name":"Cyborgpunk Frog",
+      "owner":"0x74dd9b41bb689741e1106f54057065bb38c1bdc7",
+      "contracts_address":"0x623bcc8b1663eab6916db2a9ad59b371a471a582",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"bluebird-3d",
+      "name":"BlueBird-3D",
+      "owner":"0x8de2ef8affed182e95d98b56581058e13aae0a9e",
+      "contracts_address":"0x4a1e2e6d38aed8ecb61a55625a1c69bb85621907",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"beanzofficial",
+      "name":"BEANZ Official",
+      "owner":"0x2ae6b0630ebb4d155c6e04fcb16840ffa77760aa",
+      "contracts_address":"0x306b1ea3ecdf94ab739f1910bbda052ed4a9f949",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"sword-in-the-stone-4",
+      "name":"Sword in the Stone",
+      "owner":"0xf37614916b88c6394108ce17859ec3a8316b68d7",
+      "contracts_address":"0x3d9bbdc28cdf0fc3fafe822a205f9852cdf5d1d8",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"courtyard-nft",
+      "name":"Courtyard.io",
+      "owner":"0x0725d2b69e107a7404c98c98aab7ec9dbf7af3c4",
+      "contracts_address":"0x251be3a17af4892035c37ebf5890f4a4d889dcad",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"alpha-prestige-fusionist-official",
+      "name":"Alpha Prestige - Fusionist",
+      "owner":"0x459c5440e65dc8db5287eccf86080f7a66b0f176",
+      "contracts_address":"0xcbeb9b45ba9fbfbbccc289ee48dadd6fb65ae2a7",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"game-junior-house",
+      "name":"Game Junior House",
+      "owner":"0x53edc9e2070bcd2e39bd2fc054211ced8f0aa228",
+      "contracts_address":"0xb41b64286c3dbae82c779ff7ebfc45ed26b113bd",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"berachain-bit-bears",
+      "name":"Bit Bears by Berachain",
+      "owner":"0x49e701cb7a373d955b18f5daf8fedc03ff273396",
+      "contracts_address":"0x32bb5a147b5371fd901aa4a72b7f82c58a87e36d",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"wobble-dance",
+      "name":"Wobble-Dance",
+      "owner":"0x8199f256b08c8f21cb9d626bd42a0b16e0840db8",
+      "contracts_address":"0x6e942f1601219a6cf97191b0ff1c1557d00461bb",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"grifters-by-xcopy",
+      "name":"Grifters by XCOPY",
+      "owner":"0x8167e23f814891ac3341913a12d06a62dac0c6ef",
+      "contracts_address":"",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"theundeadnft",
+      "name":"The Undead",
+      "owner":"0x12c5f80dc11ec22be4645b690587157a978d3112",
+      "contracts_address":"0x331c8c367ac85506d7f0d811d5f33a6f8c2bef4d",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"terraforms",
+      "name":"Terraforms by Mathcastles",
+      "owner":"0x7a822bce7b9fadd3ed4a533b48eb04eb22696405",
+      "contracts_address":"0x4e1f41613c9084fdb9e34e11fae9412427480e56",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"spells-of-genesis-curated",
+      "name":"Spells of Genesis (2015 - 2019)",
+      "owner":"0x2272ecf43a7481088fa2d4ba9109804ed5a31901",
+      "contracts_address":"0xdca91409018ea80b71d21e818f00e76072969861",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"clowndog",
+      "name":"ClownDog",
+      "owner":"0x9fa95490242a948bda8b0d0e03ca2dbe3bbc9e86",
+      "contracts_address":"0xa018558ab1830c00b5cba3e31e74a2d073858fe8",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"hypc-license",
+      "name":"HyPC License",
+      "owner":"0xc254eacfff0ef2c9eed7d2fb796219e3bcd7ea82",
+      "contracts_address":"0xd32cb5f76989a27782e44c5297aaba728ad61669",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"spacenationol-prime-navigator",
+      "name":"Prime Navigator",
+      "owner":"0x464868685f5ed7cc8260840a8a0e797f48b0dbd0",
+      "contracts_address":"0xcb65bac4d4a2e400af9e1aaa999b3e7a4c42930a",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"zodiac-visions",
+      "name":"Zodiac Visions",
+      "owner":"0x07a403bebfdaa9c8bb595e2e2e15aa78e51d9ae4",
+      "contracts_address":"0xb40452d53c508f81be803d6641a8bdb1acc8bb58",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"xcopy-editions",
+      "name":"XCOPY editions 2019-22",
+      "owner":"0x39cc9c86e67baf2129b80fe3414c397492ea8026",
+      "contracts_address":"0x42df42a471e1db2d4e4a1545b2f4b951f2da06e4",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"genesis-creepz",
+      "name":"Creepz by OVERLORD",
+      "owner":"0x23692d965d700be09fe8805b48c98123b1718d34",
+      "contracts_address":"0x5946aeaab44e65eb370ffaa6a7ef2218cff9b47d",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"colorpepe-bc404",
+      "name":"COLORPEPE",
+      "owner":"0xe9d949a07b9b65a009a617071a7f845ebd7da600",
+      "contracts_address":"0x5ca0c41a50fcfec85b91bb4ca5b024b36d9bb120",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"azragames-thehopeful",
+      "name":"Azra Games - The Hopeful",
+      "owner":"0x971c804ca0c034553ef0d31a55d8381488317149",
+      "contracts_address":"0xc4973de5ee925b8219f1e74559fb217a8e355ecf",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"ninja-squad-official",
+      "name":"Ninja Squad Official",
+      "owner":"0xab910585a6daceea4eabb587e6aaefc888dd9716",
+      "contracts_address":"0x8c186802b1992f7650ac865d4ca94d55ff3c0d17",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"writofpassage-1",
+      "name":"WritOfPassage",
+      "owner":"0x52c62f753863c5e19c85f1a21ffca2f12268ba53",
+      "contracts_address":"0x5d541b55763a9277f61a739f40b6021a16c2d3d8",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"bored-ape-kennel-club",
+      "name":"Bored Ape Kennel Club",
+      "owner":"0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+      "contracts_address":"0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"vcitymeta-land-1",
+      "name":"VcityMeta Land",
+      "owner":"0x00d13778c76831f260adec9a3f4c100663555555",
+      "contracts_address":"0xab27db32aefba4d69e27177a4cd0734b6d1a1717",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"trump-q",
+      "name":"Trump Q",
+      "owner":"0x423536a7cd427d2f97d369f04ecda682de6be887",
+      "contracts_address":"0x8f2763affabcee0b1c8178f0c8a249d578ae7f3a",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"the-band-bears",
+      "name":"The Band Bears",
+      "owner":"0x49e701cb7a373d955b18f5daf8fedc03ff273396",
+      "contracts_address":"0xb4e570232d3e55d2ee850047639dc74da83c7067",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"opepen-edition",
+      "name":"Opepen Edition",
+      "owner":"0xc8f8e2f59dd95ff67c3d39109eca2e2a017d4c8a",
+      "contracts_address":"0x6339e5e072086621540d0362c4e3cea0d643e114",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"alphagatespacenation",
+      "name":"Alpha Gate - Space Nation",
+      "owner":"0x464868685f5ed7cc8260840a8a0e797f48b0dbd0",
+      "contracts_address":"0xff2b4721f997c242ff406a626f17df083bd2c568",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"bad-egg-co",
+      "name":"Bad Egg Co",
+      "owner":"0x145f95aa308a46a31114d5a401b9076be78a1c73",
+      "contracts_address":"0xee03aecbf056865d1365cad76aeef305238bd1dc",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"nftrees",
+      "name":"NFTrees",
+      "owner":"0x229c487eaf50369e1ada49893a1ecddd4d513114",
+      "contracts_address":"0xeaa4c58427c184413b04db47889b28b5c98ebb7b",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"seedworld-vanguards-revealed",
+      "name":"Seedworld Vanguards",
+      "owner":"0x2765e88c4f4d84cc3b32c544ef474f38c5b86c5a",
+      "contracts_address":"0x71d1e9741da1e25ffd377be56d133359492b9c3b",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"chronosworlds-travelers-3",
+      "name":"ChronosWorlds Travelers",
+      "owner":"0x490ae2d470445e16cfa91c9c3920edfd04e32edb",
+      "contracts_address":"0x846925e1b1382175bd71b8c2fabb8cc86c1bbf89",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"vcitymeta-house-1",
+      "name":"VcityMeta House",
+      "owner":"0x00d13778c76831f260adec9a3f4c100663555555",
+      "contracts_address":"0xb176c21d6b66d2fe1b0e7c697610163d28000a65",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"wrapped-cryptopunks",
+      "name":"Wrapped Cryptopunks",
+      "owner":"0x82bda1a8d056827c86fa661175d6a05e1b49bcd1",
+      "contracts_address":"0xb7f7f6c52f2e2fdb1963eab30438024864c313f6",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"meridian-by-matt-deslauriers",
+      "name":"Meridian by Matt DesLauriers",
+      "owner":"0xcf00ec2b327bcfa2bee2d8a5aee0a7671d08a283",
+      "contracts_address":"",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"sappy-seals",
+      "name":"Sappy Seals",
+      "owner":"0x03fede75ac53dad83d9c00a549f10c5b583b3447",
+      "contracts_address":"0x364c828ee171616a39897688a831c2499ad972ec",
+      "chain":"ethereum"
+   },
+   {
+      "collection":"otherdeed-expanded",
+      "name":"Otherdeed Expanded",
+      "owner":"0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+      "contracts_address":"0x790b2cf29ed4f310bf7641f013c65d4560d28371",
+      "chain":"ethereum"
+   }
+]
