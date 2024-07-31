@@ -1,0 +1,122 @@
+[
+   {
+      "collection":"boredapeyachtclub",
+      "name":"Bored Ape Yacht Club",
+      "owner":"0x0000000000000000000000000000000000000000",
+      "contracts_address":"0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d"
+   },
+   {
+      "collection":"pudgypenguins",
+      "name":"Pudgy Penguins",
+      "owner":"0xf54c9a0e44a5f5afd27c7ac8a176a843b9114f1d",
+      "contracts_address":"0xbd3531da5cf5857e7cfaa92426877b022e612cf8"
+   },
+   {
+      "collection":"cryptopunks",
+      "name":"CryptoPunks",
+      "owner":"0xc352b534e8b987e036a93539fd6897f53488e56a",
+      "contracts_address":"0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb"
+   },
+   {
+      "collection":"milady",
+      "name":"Milady Maker",
+      "owner":"0x43e2e78c8e6f2ce57fbd970c811e70e0044389aa",
+      "contracts_address":"0x5af0d9827e0c53e4799bb226655a1de152a425a5"
+   },
+   {
+      "collection":"mutant-ape-yacht-club",
+      "name":"Mutant Ape Yacht Club",
+      "owner":"0xa858ddc0445d8131dac4d1de01f834ffcba52ef1",
+      "contracts_address":"0x60e4d786628fea6478f785a6d7e704777c86a7c6"
+   },
+   {
+      "collection":"memelandcaptainz",
+      "name":"Memeland Captainz",
+      "owner":"0x1c593c369136264abfb908b4b20e74c9a5949417",
+      "contracts_address":"0x769272677fab02575e84945f03eca517acc544cc"
+   },
+   {
+      "collection":"lilpudgys",
+      "name":"Lil Pudgys",
+      "owner":"0xf54c9a0e44a5f5afd27c7ac8a176a843b9114f1d",
+      "contracts_address":"0x524cab2ec69124574082676e6f654a18df49a048"
+   },
+   {
+      "collection":"remilio-babies",
+      "name":"Redacted Remilio Babies",
+      "owner":"0x43e2e78c8e6f2ce57fbd970c811e70e0044389aa",
+      "contracts_address":"0xd3d9ddd0cf0a5f0bfb8f7fceae075df687eaebab"
+   },
+   {
+      "collection":"azuki",
+      "name":"Azuki",
+      "owner":"0x2ae6b0630ebb4d155c6e04fcb16840ffa77760aa",
+      "contracts_address":"0xed5af388653567af2f388e6224dc7c4b3241c544"
+   },
+   {
+      "collection":"matr1x-kuku",
+      "name":"MATR1X KUKU",
+      "owner":"0x6ff4dab3dbe9e7eb5264fcb11f3194ed9bf40f7e",
+      "contracts_address":"0x596a5cd859ad53fec23cd3fcd77522f0b407920d"
+   },
+   {
+      "collection":"matr1x-kuku",
+      "name":"MATR1X KUKU",
+      "owner":"0x6ff4dab3dbe9e7eb5264fcb11f3194ed9bf40f7e",
+      "contracts_address":"0x596a5cd859ad53fec23cd3fcd77522f0b407920d"
+   },
+   {
+      "collection":"kanpai-pandas",
+      "name":"Kanpai Pandas",
+      "owner":"0xd77ec5ba85742194487ac7218d2775b8b2da40ae",
+      "contracts_address":"0xacf63e56fd08970b43401492a02f6f38b6635c91"
+   },
+   {
+      "collection":"wrapped-cryptopunks",
+      "name":"Wrapped Cryptopunks",
+      "owner":"0x82bda1a8d056827c86fa661175d6a05e1b49bcd1",
+      "contracts_address":"0xb7f7f6c52f2e2fdb1963eab30438024864c313f6"
+   },
+   {
+      "collection":"doodles-official",
+      "name":"Doodles",
+      "owner":"0x9d863ed039d61b9313fdc06a9e5ab4b6c2f63ba8",
+      "contracts_address":"0x8a90cab2b38dba80c64b7734e58ee1db38b8992e"
+   },
+   {
+      "collection":"orbitjh",
+      "name":"Orbit By Jiannan Huang",
+      "owner":"0x003b0bef9d9127c7139d9a86623802894048c92a",
+      "contracts_address":"0x0483b0dfc6c78062b9e999a82ffb795925381415"
+   },
+   {
+      "collection":"piratenation",
+      "name":"Pirate Nation - Founder's Pirates",
+      "owner":"0x69eabd271ce10c2102498d7a0b00b6e113dcdfe8",
+      "contracts_address":"0x1b41d54b3f8de13d58102c50d7431fd6aa1a2c48"
+   },
+   {
+      "collection":"castile-tarot",
+      "name":"TAROT",
+      "owner":"0x5293050b1682f72718386b0ed98d2db9d4609ec7",
+      "contracts_address":"0x89b8d549fea2ebd2aa0b375ce0dcabba79e7e636"
+   },
+   {
+      "collection":"mocaverse",
+      "name":"Mocaverse",
+      "owner":"0xda4966870a9b4ce849c2011a007a896b7f212b70",
+      "contracts_address":"0x59325733eb952a92e069c87f0a6168b29e80627f"
+   },
+   {
+      "collection":"degods-eth",
+      "name":"DeGods",
+      "owner":"0x28b23effa8c23e8e402e3f8516f544e6567c41f5",
+      "contracts_address":"0x8821bee2ba0df28761afff119d66390d594cd280"
+   },
+   {
+      "collection":"sappy-seals",
+      "name":"Sappy Seals",
+      "owner":"0x03fede75ac53dad83d9c00a549f10c5b583b3447",
+      "contracts_address":"0x364c828ee171616a39897688a831c2499ad972ec"
+   }
+]
